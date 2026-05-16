@@ -1,0 +1,5 @@
+.venv/
+main.py
+*.toml
+.python-version
+*.lock
